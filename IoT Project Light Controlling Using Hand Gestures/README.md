@@ -76,3 +76,4 @@ The system is designed with two modes: **simulation mode** (tested in this proje
 ## Notes
 - ✅ Current implementation has been tested only in **simulation mode**.  
 - 🚧 Real hardware integration is a planned extension for future work.
+- Video [demo](https://youtube.com/shorts/qXX9ftPPjNQ?si=qORUex7BwIo1_pp0) from TA Khoa (AI VIET NAM)
