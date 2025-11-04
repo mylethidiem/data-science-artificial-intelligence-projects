@@ -1,17 +1,83 @@
-# Artificial Intelligence Learning Projects
+# 🧠 Data Science and Artificial Intelligence Learning Projects
 
-# References
-1. Class AIO2025 at [AI VIET NAM](https://aivietnam.edu.vn/)
-2. [Kaggle](https://www.kaggle.com/competitions?hostSegmentIdFilter=5)
+Welcome to my collection of **mini projects and experiments** developed during my learning journey in **AI, Data Science, and Analytics**.  
+This repository showcases a range of topics — from foundational machine learning models to applied projects in computer vision, IoT, and data-driven analysis.
 
-# Projects
+---
 
-## MLP
-1. [Architecture Project Gradient Vanishing in MLP](https://github.com/mylethidiem/artificial-intelligence-projects/tree/main/Architecture%20Project%20Gradient%20Vanishing%20in%20MLP)
-2. [IoT Project Light Controlling Using Hand Guestures](https://github.com/mylethidiem/artificial-intelligence-projects/tree/main/IoT%20Project%20Light%20Controlling%20Using%20Hand%20Gestures)
+## 📚 References
+1. 🎓 [AI VIET NAM – AIO2025 Class](https://aivietnam.edu.vn/)
+2. 🏆 [Kaggle Competitions](https://www.kaggle.com/competitions?hostSegmentIdFilter=5)
 
-## CNN
-1. Scene Text Recognition
-2. Visual Question Answering
+---
 
-## Kaggle
+## 🚀 Projects Overview
+
+### 🔸 MLP (Multi-Layer Perceptron)
+| Project | Description |
+|----------|--------------|
+| [Architecture Project: Gradient Vanishing in MLP](https://github.com/mylethidiem/artificial-intelligence-projects/tree/main/Architecture%20Project%20Gradient%20Vanishing%20in%20MLP) | Explore how gradient vanishing occurs in deep MLP networks and experiment with normalization and activation functions to mitigate it. |
+| [IoT Project: Light Controlling Using Hand Gestures](https://github.com/mylethidiem/artificial-intelligence-projects/tree/main/IoT%20Project%20Light%20Controlling%20Using%20Hand%20Gestures) | Implemented a simple IoT-based gesture recognition system using MLP to control light devices. |
+
+---
+
+### 🔹 CNN (Convolutional Neural Networks)
+| Project | Description |
+|----------|--------------|
+| 📝 **Scene Text Recognition** | Building a CNN-based OCR pipeline to detect and recognize text in natural scene images. |
+| 💡 **Visual Question Answering (VQA)** | Exploring multimodal learning by combining vision and language models to answer questions about images. |
+
+---
+
+### 🔸 Time Series / IoT Analytics
+| Project | Description |
+|----------|--------------|
+| 📊 **IMU Sensor Activity Recognition** | Using 6-axis IMU data (accelerometer + gyroscope) to detect equipment activity (Active/Idle). Focus on feature engineering and adaptive thresholding. |
+| ⚙️ **Predictive Maintenance Simulation** | Synthetic data analysis to predict machinery health using statistical & ML-based anomaly detection. |
+
+---
+
+### 📈 Data Analysis Projects
+| Project | Description |
+|----------|--------------|
+| 📊 **Exploratory Data Analysis (EDA)** | Practicing descriptive statistics, correlation analysis, and visualization using real-world datasets. |
+| 🧮 **Excel for Data Analytics** | Applying pivot tables, formulas, and data visualization to summarize business insights. |
+| 📈 **SQL Analytics Exercises** | Writing SQL queries for filtering, aggregation, and joining data in analytics scenarios. |
+
+---
+
+### 🧩 Kaggle Practice
+| Competition | Focus |
+|--------------|--------|
+| **Titanic: Machine Learning from Disaster** | Classification, feature engineering, and baseline model comparison. |
+| **House Prices: Advanced Regression Techniques** | Regression, feature scaling, and model ensembling. |
+| **Digit Recognizer (MNIST)** | CNN vs MLP benchmark for handwritten digit classification. |
+
+---
+
+## 🧱 Tech Stack
+- **Languages:** Python, SQL  
+- **Core Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Tools:** Jupyter Notebook, Google Colab, Git, Kaggle API  
+- **MLOps (basic):** DVC, MLflow (for experiment tracking)
+
+---
+
+## 🧭 Learning Focus
+- Deep Learning fundamentals (MLP, CNN, RNN, Transformer)
+- Computer Vision (classification, OCR, VQA)
+- IoT & Edge AI analytics
+- Time Series Forecasting and Sensor Data
+- Data Analysis, Visualization, and Model Interpretability
+
+---
+
+## 📬 Contact
+**👩‍💻 Author:** [Lê Thị Diễm My](https://github.com/mylethidiem)  
+📧 **Email:** lethidiemmy961996@gmail.com  
+🔗 **LinkedIn:** [Diem My Le](https://www.linkedin.com/in/mylethidiem/)  
+
+---
+
+> _"Learning, Building, and Growing in Data & AI."_ 🌍
