@@ -29,7 +29,7 @@ This repository showcases a range of topics — from foundational machine learni
 
 ---
 
-### 🔸 Time Series / IoT Analytics
+### 🔸 Time Series
 | Project | Description |
 |----------|--------------|
 | 📊 **IMU Sensor Activity Recognition** | Using 6-axis IMU data (accelerometer + gyroscope) to detect equipment activity (Active/Idle). Focus on feature engineering and adaptive thresholding. |
@@ -40,9 +40,12 @@ This repository showcases a range of topics — from foundational machine learni
 ### 📈 Data Analysis Projects
 | Project | Description |
 |----------|--------------|
-| 📊 **Exploratory Data Analysis (EDA)** | Practicing descriptive statistics, correlation analysis, and visualization using real-world datasets. |
-| 🧮 **Excel for Data Analytics** | Applying pivot tables, formulas, and data visualization to summarize business insights. |
-| 📈 **SQL Analytics Exercises** | Writing SQL queries for filtering, aggregation, and joining data in analytics scenarios. |
+| 🏢 **Sales & Profit Dashboard (Excel)** | Designed an interactive Excel dashboard to analyze sales, profit, and regional performance — includes KPI tracking and dynamic charts. |
+| 🧮 **EDA on Retail Sales Data (Python & Pandas)** | Explored patterns and trends from retail data using descriptive statistics and visualizations. |
+| 💾 **SQL Business Insights** | Wrote analytical queries for sales growth, customer segmentation, and top product analysis. |
+| 📊 **Data Cleaning & Visualization Practice** | Practiced outlier handling, imputation, and visualization storytelling using Python libraries. |
+| 📉 **Correlation & Feature Relationships** | Analyzed feature relationships with heatmaps and statistical measures to prepare data for modeling. |
+
 
 ---
 
@@ -76,7 +79,7 @@ This repository showcases a range of topics — from foundational machine learni
 ## 📬 Contact
 **👩‍💻 Author:** [Lê Thị Diễm My](https://github.com/mylethidiem)  
 📧 **Email:** lethidiemmy961996@gmail.com  
-🔗 **LinkedIn:** [Diem My Le](https://www.linkedin.com/in/mylethidiem/)  
+🔗 **LinkedIn:** [Thi-Diem-My Le](https://www.linkedin.com/in/mylethidiem/)  
 
 ---
 
