@@ -210,7 +210,7 @@ def run(data_path, sign_img_path, split="val", resolution=(1280, 720)):
 
 if __name__ == "__main__":
     LABEL_TAG = label_dict_from_config_file("hand_gesture.yaml")
-    data_path = "./data2"
+    data_path = "./data"
     sign_img_path = "./sign_imgs2"
     run(data_path, sign_img_path, "train", (1280, 720))
     run(data_path, sign_img_path, "val", (1280, 720))

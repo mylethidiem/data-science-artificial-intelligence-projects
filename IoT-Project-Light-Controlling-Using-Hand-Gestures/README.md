@@ -2,6 +2,8 @@
 
 ## Overview
 
+> ⚠️ Notice: Need to recheck project after refactor sources
+
 This project applies [Google MediaPipe technology](https://ai.google.dev/edge/mediapipe/solutions/guide) for
 [hand gesture recognition](https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/hands.md),
 enabling **real-time light control** through **Modbus RTU RS485**.
