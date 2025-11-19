@@ -47,13 +47,14 @@ repos:
           - flake8-bugbear
           - flake8-comprehensions
 
-  # --- Jupyter Notebook cleanup ---
+  # --- Jupyter Notebook ---
   - repo: https://github.com/kynan/nbstripout
     rev: 0.7.1
     hooks:
       - id: nbstripout
         name: Clean Jupyter output cells
         files: \.ipynb$
+        args: ["--keep-count --keep-output"]
 
   # --- Secrets detection (optional but good) ---
   # - repo: https://github.com/Yelp/detect-secrets
